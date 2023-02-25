@@ -27,6 +27,7 @@ require (
 	github.com/mitchellh/go-ps v1.0.0
 	github.com/nightlyone/lockfile v0.0.0
 	github.com/pborman/ansi v1.0.0
+	github.com/smartystreets/goconvey v1.7.2 // indirect
 	github.com/stretchr/testify v1.7.0
 	github.com/twinj/uuid v0.0.0-20151029044442-89173bcdda19 // Don't update -- breaks
 	github.com/xtaci/smux v1.5.15
@@ -35,7 +36,7 @@ require (
 	golang.org/x/net v0.0.0-20210508051633-16afe75a6701
 	golang.org/x/oauth2 v0.0.0-20210427180440-81ed05c6b58c
 	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c
-	golang.org/x/sys v0.0.0-20210630005230-0f9fa26af87c
+	golang.org/x/sys v0.1.0
 	gopkg.in/ini.v1 v1.62.0
 	gopkg.in/yaml.v2 v2.3.0
 )
